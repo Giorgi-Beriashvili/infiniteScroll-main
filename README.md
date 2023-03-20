@@ -1,5 +1,5 @@
-#Run JSON Server
+##Run JSON Server
  json-server --watch db.json
 
-#or try this
+##or try this
  npm run json:server
